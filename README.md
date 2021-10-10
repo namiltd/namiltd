@@ -2,6 +2,8 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=namiltd&show_icons=true">
 
+I am a programmer (mainly PHP) and an administrator of Linux and Windows systems in Poland.
+
 <!--
 **namiltd/namiltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
