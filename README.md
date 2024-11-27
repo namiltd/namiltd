@@ -6,8 +6,8 @@ I am a programmer (mainly PHP) and an administrator of Linux and Windows systems
 
 
 The main projects I have been working on for a long time are:
- - phpsysinfo - https://github.com/phpsysinfo/phpsysinfo
- - winprint - https://github.com/namiltd/winprint
+ - https://github.com/phpsysinfo/phpsysinfo
+ - https://github.com/namiltd/winprint
   
 <!--
 **namiltd/namiltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
